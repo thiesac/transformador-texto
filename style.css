@@ -1,0 +1,42 @@
+body {
+    background-color: #E8ECEB;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #E09E50;
+    margin-top: 50px;
+}
+
+textarea {
+    display: block;
+    border: 1px solid #d6dbda;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+    border: none;
+    margin: auto;
+    margin-bottom: 20px;
+    color: #E8ECEB;
+    padding: 20px 50px;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+#maiusculas {
+    background-color: #E09E50;
+}
+
+#minusculas {
+    background-color: #8CBDB9;
+}
+
+#contar {
+    background-color: #2D3E4E;
+}
